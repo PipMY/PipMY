@@ -1,4 +1,4 @@
-# Hi, I'm Pip
+# Hellowie, I'm Pip
 
 I'm a computer science student at Durham University with a particular interest in systems programming, hardware and performance. I mostly work in C++, although I really like functional programming, big up Haskell and OCaml.
 
